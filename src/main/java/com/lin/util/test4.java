@@ -7,4 +7,14 @@ package com.lin.util;
  */
 public class test4 {
 
+    {
+        System.out.println("我是初始化");
+    }
+    static {
+        System.out.println("我是静态初始化");
+    }
+
+    public static void main(String[] args) {
+        test4 t = new test4();
+    }
 }

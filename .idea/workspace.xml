@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f134538-f290-4b66-a6e6-52e9d428e518" name="Changes" comment="1" />
+    <list default="true" id="6f134538-f290-4b66-a6e6-52e9d428e518" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode200岛屿问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode42接雨水.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode75颜色分类.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode78子集.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode96不同的二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/盛最多的容器.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +34,14 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -54,6 +72,82 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
+  <component name="RunManager" selected="Application.LeetCode96不同的二叉树">
+    <configuration name="LeetCode75颜色分类" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode75颜色分类" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lin.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode78子集" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode78子集" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lin.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode96不同的二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode96不同的二叉树" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lin.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.test" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lin.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.test4" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lin.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeetCode96不同的二叉树" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.LeetCode78子集" />
+        <item itemvalue="Application.test4" />
+        <item itemvalue="Application.LeetCode75颜色分类" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,6 +157,16 @@
       <option name="presentableId" value="Default" />
       <updated>1649469146596</updated>
       <workItem from="1649469147992" duration="1229000" />
+      <workItem from="1656836287435" duration="296000" />
+      <workItem from="1662085062430" duration="396000" />
+      <workItem from="1662085750658" duration="2000" />
+      <workItem from="1666782575565" duration="1354000" />
+      <workItem from="1667289280865" duration="565000" />
+      <workItem from="1668476349929" duration="206000" />
+      <workItem from="1668482631962" duration="106000" />
+      <workItem from="1668496026461" duration="336000" />
+      <workItem from="1668504565999" duration="52000" />
+      <workItem from="1668563276793" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1649470860390</created>
