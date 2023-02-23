@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f134538-f290-4b66-a6e6-52e9d428e518" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode279完全啊平方数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode105从前序与中序遍历序列构造二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode151反转字符串中的单词.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode215数组中第K个最大元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode315计算右侧小于当前元素的个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode316去除重复字母.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode347前K个高频元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode406根据身高重建队列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode42接雨水.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode437路径总和III.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode76最小覆盖子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode797所有可能的路径.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode979在二叉树中分配硬币.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode删除节点.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +71,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.LeetCode279完全啊平方数">
-    <configuration name="LeetCode128最长连续序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode128最长连续序列" />
+  <component name="RunManager" selected="Application.LeetCode797所有可能的路径">
+    <configuration name="LeetCode删除节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode删除节点" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode207课程表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode207课程表" />
+    <configuration name="LeetCode105从前序与中序遍历序列构造二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode105从前序与中序遍历序列构造二叉树" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode208实现Trie前缀树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode208实现Trie前缀树" />
+    <configuration name="LeetCode215数组中第K个最大元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode215数组中第K个最大元素" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode238除自身以外数组的乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode238除自身以外数组的乘积" />
+    <configuration name="LeetCode315计算右侧小于当前元素的个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode315计算右侧小于当前元素的个数" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode279完全啊平方数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode279完全啊平方数" />
+    <configuration name="LeetCode797所有可能的路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode797所有可能的路径" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
@@ -126,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeetCode279完全啊平方数" />
-        <item itemvalue="Application.LeetCode238除自身以外数组的乘积" />
-        <item itemvalue="Application.LeetCode208实现Trie前缀树" />
-        <item itemvalue="Application.LeetCode207课程表" />
-        <item itemvalue="Application.LeetCode128最长连续序列" />
+        <item itemvalue="Application.LeetCode797所有可能的路径" />
+        <item itemvalue="Application.LeetCode删除节点" />
+        <item itemvalue="Application.LeetCode215数组中第K个最大元素" />
+        <item itemvalue="Application.LeetCode315计算右侧小于当前元素的个数" />
+        <item itemvalue="Application.LeetCode105从前序与中序遍历序列构造二叉树" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +158,23 @@
       <workItem from="1649469147992" duration="1229000" />
       <workItem from="1650014759970" duration="54000" />
       <workItem from="1650087340907" duration="274000" />
-      <workItem from="1669688943021" duration="806000" />
+      <workItem from="1669688943021" duration="1283000" />
+      <workItem from="1670209852669" duration="64000" />
+      <workItem from="1673415679059" duration="1307000" />
+      <workItem from="1675043791763" duration="878000" />
+      <workItem from="1675164252509" duration="582000" />
+      <workItem from="1675215665091" duration="559000" />
+      <workItem from="1675230757824" duration="1288000" />
+      <workItem from="1675388064049" duration="783000" />
+      <workItem from="1676432438701" duration="512000" />
+      <workItem from="1676516573600" duration="662000" />
+      <workItem from="1676604661297" duration="290000" />
+      <workItem from="1676605152150" duration="185000" />
+      <workItem from="1676862776677" duration="977000" />
+      <workItem from="1676947390150" duration="2384000" />
+      <workItem from="1677032361322" duration="1643000" />
+      <workItem from="1677045901075" duration="390000" />
+      <workItem from="1677054775237" duration="537000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1649470860390</created>
@@ -154,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649470860390</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1669689756862</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669689756863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,8 +225,8 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode279完全啊平方数.java</url>
-          <line>16</line>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode437路径总和III.java</url>
+          <line>24</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
