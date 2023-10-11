@@ -1,6 +1,4 @@
-package com.lin.util;
-
-import com.lin.util.LeetCode437路径总和III.TreeNode;
+package com.lin.util.test;
 
 /**
  * @author liuxiaojia

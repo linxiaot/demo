@@ -1,6 +1,5 @@
-package com.lin.util;
+package com.lin.util.test;
 
-import com.lin.util.LeetCode979在二叉树中分配硬币.TreeNode;
 import java.util.Stack;
 
 /**

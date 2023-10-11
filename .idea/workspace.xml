@@ -5,13 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f134538-f290-4b66-a6e6-52e9d428e518" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode1081不同字符的最小子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode698划分为k个相等的子集.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode86分隔链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/demo/FinalizeEscapeGC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode567字符串的排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/RedPacket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode42接雨水.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode42接雨水.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/StrUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/StrUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode105从前序与中序遍历序列构造二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode105从前序与中序遍历序列构造二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode1081不同字符的最小子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode1081不同字符的最小子序列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode146LRU缓存.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode146LRU缓存.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode151反转字符串中的单词.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode151反转字符串中的单词.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode215数组中第K个最大元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode215数组中第K个最大元素.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode279完全啊平方数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode279完全啊平方数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode315计算右侧小于当前元素的个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode315计算右侧小于当前元素的个数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode316去除重复字母.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode316去除重复字母.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode347前K个高频元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode347前K个高频元素.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode406根据身高重建队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode406根据身高重建队列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode42接雨水.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode42接雨水.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode437路径总和III.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode437路径总和III.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode698划分为k个相等的子集.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode698划分为k个相等的子集.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode76最小覆盖子串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode76最小覆盖子串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode797所有可能的路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode797所有可能的路径.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode86分隔链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode86分隔链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode979在二叉树中分配硬币.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode979在二叉树中分配硬币.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode删除节点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode删除节点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/NumberUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/NumberUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/StrUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/StrUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lin/util/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lin/util/test/test4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +90,18 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="Application.LeetCode146LRU缓存">
-    <configuration name="LeetCode105从前序与中序遍历序列构造二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode105从前序与中序遍历序列构造二叉树" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lin.util.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LeetCode567字符串的排列">
+    <configuration name="FinalizeEscapeGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.demo.FinalizeEscapeGC" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lin.util.*" />
+          <option name="PATTERN" value="com.lin.util.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode1081不同字符的最小子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode1081不同字符的最小子序列" />
+    <configuration name="LeetCode567字符串的排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.test.LeetCode567字符串的排列" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lin.util.*" />
+          <option name="PATTERN" value="com.lin.util.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,25 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode146LRU缓存" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.util.LeetCode146LRU缓存" />
+    <configuration name="LeetCode76最小覆盖子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.test.LeetCode76最小覆盖子串" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lin.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StrUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.util.StrUtil" />
-      <module name="demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lin.util.*" />
+          <option name="PATTERN" value="com.lin.util.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +136,24 @@
       </method>
     </configuration>
     <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lin.util.test2" />
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.test.test2" />
       <module name="demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lin.util.*" />
+          <option name="PATTERN" value="com.lin.util.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lin.util.test.test4" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lin.util.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LeetCode146LRU缓存" />
-        <item itemvalue="Application.StrUtil" />
+        <item itemvalue="Application.LeetCode567字符串的排列" />
+        <item itemvalue="Application.LeetCode76最小覆盖子串" />
         <item itemvalue="Application.test2" />
-        <item itemvalue="Application.LeetCode105从前序与中序遍历序列构造二叉树" />
-        <item itemvalue="Application.LeetCode1081不同字符的最小子序列" />
+        <item itemvalue="Application.FinalizeEscapeGC" />
+        <item itemvalue="Application.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -182,6 +211,19 @@
       <workItem from="1681975334593" duration="261000" />
       <workItem from="1682043469019" duration="175000" />
       <workItem from="1684995174707" duration="11000" />
+      <workItem from="1684997199208" duration="275000" />
+      <workItem from="1688986395299" duration="708000" />
+      <workItem from="1689232170007" duration="129000" />
+      <workItem from="1692930171076" duration="120000" />
+      <workItem from="1693460184222" duration="241000" />
+      <workItem from="1694154117871" duration="3579000" />
+      <workItem from="1695198650313" duration="249000" />
+      <workItem from="1695198922540" duration="31000" />
+      <workItem from="1696642833287" duration="204000" />
+      <workItem from="1696817236225" duration="181000" />
+      <workItem from="1697009510721" duration="290000" />
+      <workItem from="1697013281062" duration="291000" />
+      <workItem from="1697014394907" duration="575000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1649470860390</created>
@@ -204,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677140117196</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1">
+      <created>1684997457070</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1684997457070</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,9 +288,24 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/lin/util/LeetCode437路径总和III.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode437路径总和III.java</url>
           <line>24</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode146LRU缓存.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode146LRU缓存.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/lin/util/test/LeetCode76最小覆盖子串.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

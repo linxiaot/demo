@@ -1,4 +1,4 @@
-package com.lin.util;
+package com.lin.util.test;
 
 /**
  * @author liuxiaojia

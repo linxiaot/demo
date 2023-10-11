@@ -1,4 +1,4 @@
-package com.lin.util;
+package com.lin.util.test;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -11,7 +11,7 @@ import java.util.Map;
 public class LeetCode76最小覆盖子串 {
 
     public static void main(String[] args) {
-        String s = "ADOBECODEBANC";
+        String s = "EBBANCF";
         String t = "ABC";
         String res = minWindow(s, t);
         System.out.println(res);
